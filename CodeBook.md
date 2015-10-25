@@ -3,13 +3,12 @@
 title: "Codebook"
 author: "Clint Webster"
 date: "October 24, 2015"
-output: html_document
 ---
 
-The run_analysis function returns a summarized dataset containing the following variables.
-See the README.md file for details on the steps taken in run_analysis
+The run_analysis function returns a summarized dataset containing the variables listed below.
+See the README.md file for details on the steps taken in run_analysis to process data from source files.
 
-Per the features_info.txt file, here's a description of the feature variables included:
+Per the features_info.txt file provided in source data, here's a description of the feature variables included:
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. 
