@@ -3,7 +3,6 @@
 title: "Codebook"
 author: "Clint Webster"
 date: "October 24, 2015"
----
 
 The run_analysis function returns a summarized dataset containing the variables listed below.
 See the README.md file for details on the steps taken in run_analysis to process data from source files.

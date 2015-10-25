@@ -3,7 +3,7 @@
 title: "run_analysis"
 author: "Clint Webster"
 date: "October 24, 2015"
----
+
 
 ##Overview
 The run_analysis.R source file contains 2 functions:
