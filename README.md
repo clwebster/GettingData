@@ -28,5 +28,7 @@ The process takes the following steps:
   + Subject ID's read in from source subjet_test/train source files and appended to resultset
 
 3. Processed train and test resultsets from readSourceData steps above are combined into a single dataset
+
 4. Dataset joins with Activity ID based control dataset to provid descriptive text for each activity
-5. A final summary dataset is provided that groups by Subject and Activity. For each group the average value of each feature column is provided.  The final summary dataset is also written out to a file named run_analysis_out.txt
+
+5. A final summary dataset is provided that groups by Subject and Activity. For each group the average value of each feature column is provided.  The final summary dataset is also written out to a file named 'run_analysisout.txt'
