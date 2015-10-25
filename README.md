@@ -16,6 +16,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 This is a direct link to the dataset used:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+See CodeBook.md for details on variables in the final dataset.
+
 ##Process Details
 The process takes the following steps:
 1. Calls readSourceData function to process source test and train files in chunks. Processes in chunks to handle large file that are memory intensive.
